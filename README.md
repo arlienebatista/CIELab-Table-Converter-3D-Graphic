@@ -1,8 +1,10 @@
 # Graphic-Color-Lab-3D
 Demostra os pontos de cores, extraindo dados de uma planilha, no espaço de cores CIELab em 3D.
 
-Versão: v1.2
+Versão: v1.0
 
-![Entrada de Dados](/Captura de tela 2024-06-09 083305.png)
+![Tela Inicial](/Captura1.png)
 
-![Gráfico](/Captura de tela 2024-06-09 083335.png)
+![Entrada de Dados](/Captura2.png)
+
+![Gráfico](/Captura3.png)
