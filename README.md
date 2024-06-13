@@ -1,4 +1,4 @@
-# Graphic-Color-Lab-3D
+# CIELab-Table-Converter-3D-Graphic
 Demostra os pontos de cores, extraindo dados de uma planilha, no espaço de cores CIELab em 3D.
 
 Versão: v1.0
