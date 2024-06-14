@@ -1,5 +1,5 @@
 # CIELab-Table-Converter-3D-Graphic
-Demostra os pontos de cores, extraindo dados de uma planilha, no espaço de cores CIELab em 3D.
+Adquire múltiplas coordenadas de cores no padrão CIELab diretamente de tabela em formato CSV, calcula, converte valores e gera um gráfico 3D
 
 Versão: v1.0
 
